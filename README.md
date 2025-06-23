@@ -52,6 +52,7 @@ FlyGlobe is a modern travel booking app built with **React.js** and **Tailwind C
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/challasamatha/flyglobe-booking.git
+
 cd flyglobe-booking
 
 🚀 Deployment Instructions (Vercel)
