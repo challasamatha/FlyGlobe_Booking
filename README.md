@@ -1,6 +1,6 @@
 # ✈️ FlyGlobe Booking 
 
-FlyGlobe is a modern travel booking app built with **React.js** and **Tailwind CSS**. It lets users search flights, view offers, plan multi-destination trips, view flight details, fill booking forms, and confirm travel packages
+FlyGlobe is a modern travel booking app built with **React.js** and **Tailwind CSS**. It lets users search flights, view offers, plan multi-destination trips, view flight details, fill booking forms, and confirm travel packages.
 
 
 ## 📂 Features
