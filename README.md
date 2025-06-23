@@ -1,12 +1,55 @@
-# React + Vite
+# ✈️ FlyGlobe Booking 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FlyGlobe is a modern travel booking app built with **React.js** and **Tailwind CSS**. It lets users search flights, view offers, plan multi-destination trips, view flight details, fill booking forms, and confirm travel packages.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+[👉 Click here to view live](https://your-deployed-site.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📂 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Home page with:
+  - Country selector
+  - Navigation bar
+  - “Discover Now” section
+  - Booking Card with search fields
+- Flight Search Options:
+  - Round Trip, One Way, Multi-City
+- Offers and Holiday Package
+- Trip Review Summary
+- Multi-destination trip form
+- Itinerary View
+- Booking Form
+- Confirmation Screen (Green Tick ✅)
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- React Router DOM
+- Tailwind CSS
+- React Icons
+
+---
+
+## 📦 Installation
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/challasamatha/flyglobe-booking.git
+cd flyglobe-booking
+
+🚀 Deployment Instructions (Vercel)
+Push your code to GitHub.
+
+Go to https://vercel.com and log in.
+
+Click "Add New Project" → Import your GitHub repo.
+
+Select React as framework.
+
+Click Deploy and wait a few seconds.
+
+Your app is live!
